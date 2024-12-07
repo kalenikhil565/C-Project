@@ -4,7 +4,7 @@
 The Book Management System is a console-based C program designed to manage books in a system. It allows users to add, update, delete, search, and sort books by various attributes such as price and rating. The system uses dynamic memory allocation to store book data and ensures that the array of books grows as needed.
 
 ## Features
-- **Add new books**: Users can add new books with attributes such as book ID, name, author, price, category, and rating.
+- **Add new books**: Users can add new books with attributes such as book ID, name, author, price, category, and rating..
 - **Display books**: Displays all stored books with their complete details.
 - **Search books**: Allows searching by book ID, name, author, or category.
 - **Update book data**: Users can update the price or rating of a book.
